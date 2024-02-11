@@ -38,7 +38,9 @@ const Home = () => {
   return(
     <div className = 'Home'>
       <Navigation/>
-      <Container>
+      <Container style={{backgroundImage:
+                "url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png')"} }>
+        
         <Row>
           <Col>
             <Card bg = "dark" className="mt-5" text = "light" style = {{'width': '25rem', 'borderRadius': '2.5%'}}>
