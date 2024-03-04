@@ -1,6 +1,6 @@
 
 
-<img src="https://www.rentallscript.com/resources/content/images/size/w1384/2021/09/React--1-.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://www.rentallscript.com/resources/content/images/size/w1384/2021/09/React--1-.gif" alt="Girl in a jacket" >
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
